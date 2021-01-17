@@ -1,1 +1,1 @@
-# data-analytics-with-Pandas-Hvplot
+Data analytics with Pandas and Seaborn
